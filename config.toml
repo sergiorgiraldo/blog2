@@ -1,0 +1,4 @@
+baseURL = 'https://sergiorgiraldo.github.io/blog2/'
+languageCode = 'en-us'
+title = 'Blog 2'
+theme = 'mini'
